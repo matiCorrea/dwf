@@ -17,6 +17,7 @@ function main() {
   const commands = parsearARGV(data);
   const busqueda = pelis.searchByCriteria(commands);
   console.log(busqueda);
+  console.log("hice un cambio");
 }
 
 main();
