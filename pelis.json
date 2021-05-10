@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The Lord Of The Rings",
+    "rating": 9.6,
+    "tags": ["fantasia", "‎aventura"]
+  },
+  {
+    "title": "The Godfather",
+    "rating": 8.6,
+    "tags": ["drama", "‎gansteres"]
+  },
+  {
+    "title": "Training Day",
+    "rating": 8.0,
+    "tags": ["accion", "mafia", "policial"]
+  },
+  {
+    "title": "Stars Wars",
+    "rating": 9.0,
+    "tags": ["ciencia ficcion", "fantasia"]
+  },
+  {
+    "title": "Ex Machina",
+    "rating": 8.5,
+    "tags": ["ciencia ficcion", "drama", "suspenso"]
+  },
+  {
+    "title": "Back To The Future",
+    "rating": 9.4,
+    "tags": ["ciencia ficcion", "comedia", "aventura"]
+  },
+  {
+    "title": "Mortal Kombat",
+    "rating": 8.4,
+    "tags": ["accion", "aventura", "artes marciales"]
+  },
+  {
+    "title": "Pulp Fiction",
+    "rating": 8.2,
+    "tags": ["accion", "policial"]
+  }
+]
